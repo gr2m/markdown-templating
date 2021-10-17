@@ -48,7 +48,7 @@ This is the value of the `block_content` variable
 
 Baz, <!--START:inline_content-->value of `inline_content` variable<!--END:inline_content-->, daz.
 
-<!--START:some_var (checksum="abcd567")-->
+<!--START:some_var checksum="abcd567"-->
 This is the value of the `block_content` variable
 <!--END:some_var-->
 ```
